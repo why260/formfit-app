@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.company.formfit",
-      "sha256_cert_fingerprints": ["0ed6012901fa6bc581d27e8be07184ca"]
+      "sha256_cert_fingerprints": ["7608fe8c6ff6292dd02b1dd49d225d3e"]
     }
   }
 ]
