@@ -1,10 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.company.formfit",
-      "sha256_cert_fingerprints": ["7608fe8c6ff6292dd02b1dd49d225d3e"]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.company.formfit",
+    "sha256_cert_fingerprints": ["7608fe8c6ff6292dd02b1dd49d225d3e"]
   }
-]
+}]
